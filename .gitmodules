@@ -4,3 +4,6 @@
 [submodule "Kolonami-Mobile"]
 	path = Kolonami-Mobile
 	url = https://github.com/Lui35/Kolonami-Mobile
+[submodule "Kolonami-Frontend"]
+	path = Kolonami-Frontend
+	url = https://github.com/Lui35/Kolonami-Frontend
