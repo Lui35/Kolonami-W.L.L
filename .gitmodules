@@ -1,0 +1,6 @@
+[submodule "Kolonami-Backend"]
+	path = Kolonami-Backend
+	url = https://github.com/Lui35/Kolonami-Backend
+[submodule "Kolonami-Mobile"]
+	path = Kolonami-Mobile
+	url = https://github.com/Lui35/Kolonami-Mobile
